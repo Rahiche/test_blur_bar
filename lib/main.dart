@@ -34,7 +34,7 @@ class _CustomTabBarDemoState extends State<CustomTabBarDemo> {
   late ScrollController first;
   late ScrollController second;
 
-  TabItemType selectedItem = TabItemType.Surface;
+  TabItemType selectedItem = TabItemType.Glass;
 
   // Operation in the following order
   // 1. Clip
