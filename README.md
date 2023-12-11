@@ -39,6 +39,16 @@ https://test_blur.codemagic.app/
 
 
 
+Conclusion : 
+do your own research
+
+My opinion :
+I could find my self using something like the glass effect, but not in a critical flow, (just for fun).
+
+I'll come back to this one later.
+
+
+
 
 
 
